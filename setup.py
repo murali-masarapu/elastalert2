@@ -12,13 +12,13 @@ setup(
     description='Automated rule-based alerting for Elasticsearch',
     long_description=open('README.md').read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/jertel/elastalert2",
+    url="https://github.com/murali-masarapu/elastalert2",
     setup_requires='setuptools',
     license='Apache 2.0',
     project_urls={
         "Documentation": "https://elastalert2.readthedocs.io",
-        "Source Code": "https://github.com/jertel/elastalert2",
-        "Discussion Forum": "https://github.com/jertel/elastalert2/discussions",
+        "Source Code": "https://github.com/murali-masarapu/elastalert2",
+        "Discussion Forum": "https://github.com/murali-masarapu/elastalert2/discussions",
     },
     classifiers=[
         'Programming Language :: Python :: 3.10',
