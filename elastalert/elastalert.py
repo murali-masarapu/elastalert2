@@ -374,7 +374,6 @@ class ElastAlerter(object):
                     body=query,
                     ignore_unavailable=True,
                     track_total_hits=True, 
-                    rest_total_hits_as_int=True,
                     **extra_args
                 )
                 if '_scroll_id' in res:
